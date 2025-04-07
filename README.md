@@ -15,7 +15,7 @@ news_fetcher/
 │   ├── config.py          # Configuration constants (API keys, keywords, etc.)
 │   ├── news_fetcher.py    # Functions for fetching news articles
 │   └── text_analysis.py   # Functions for text analysis (sentiment, summarization, etc.)
-├── news_fetcher_app.py    # Main Streamlit application
+├── app.py    # Main Streamlit application
 ├── README.md              # Project documentation
 └── requirements.txt       # Python dependencies
 ```
