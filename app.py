@@ -1,9 +1,11 @@
 import streamlit as st
+st.set_page_config(page_title="News summarize and analyze", layout="wide")
+
 from modules.news_fetcher import fetch_news
 from modules.text_analysis import analyze_article
 
-st.set_page_config(page_title="News Fetcher and Analyzer", layout="wide")
-st.title("📊 News Fetcher and Analyzer")
+
+st.title("📊 News summarize and analyze")
 st.sidebar.header("Configuration")
 
 # User Inputs
