@@ -2,6 +2,8 @@
 
 This project is a Streamlit-based application that fetches and analyzes news articles related to a specific stock ticker. It provides sentiment analysis, summarization, and sector/ticker extraction for each article.
 
+![](https://raw.github.com/alphatechlogics/News-summarizer-poc/7e263a8fd6062d9bfa1ffb2642c05f9f1aea887e/Screenshot%202025-06-17%20001054.png)
+
 ## Features
 - Fetch news articles using the NewsAPI.
 - Perform sentiment analysis using FinBERT.
